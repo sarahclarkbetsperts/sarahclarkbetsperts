@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarahclarkbetsperts
+- 👋 Hi, I’m @Sarah Clark
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on DevOps
