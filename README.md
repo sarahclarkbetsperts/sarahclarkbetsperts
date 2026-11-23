@@ -34,8 +34,20 @@ I design scalable backends and data pipelines for sports betting and fantasy spo
 | --- | --- | --- |
 | **[Amazon Customer Behavior Analysis](https://github.com/sarahclarkbetsperts/amazon-customer-behavior-pyspark)** | EDA and RFM + K-Means segmentation on 1.85M purchase records, with promotion, retention and inventory recommendations | PySpark, scikit-learn |
 | **[Delivery Time Prediction](https://github.com/sarahclarkbetsperts/porter-delivery-time-prediction)** | Linear regression with RFE on 175K orders; predicts delivery time within about 6 minutes (R² 0.58) | Python, scikit-learn |
+| **[Subscription Revenue Dashboard](https://github.com/sarahclarkbetsperts/subscription-revenue-dashboard)** ([live demo](https://sarahclarkbetsperts.github.io/subscription-revenue-dashboard/)) | Interactive revenue, auto-renew projection and acquisition-funnel dashboard on synthetic sample data | JavaScript, SVG, Python |
 
-*Most of my professional work is in private repositories; these are public projects from my MS coursework.*
+*Most of my professional work is in private repositories. The first two projects are from my MS coursework; the dashboard is built on synthetic sample data.*
+
+### 📈 Dashboard preview (sample data)
+
+<p align="center">
+  <a href="https://sarahclarkbetsperts.github.io/subscription-revenue-dashboard/"><img src="https://raw.githubusercontent.com/sarahclarkbetsperts/subscription-revenue-dashboard/main/images/auto-renew.png" alt="Auto-renew revenue projection dashboard (sample data)" width="820"></a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarahclarkbetsperts/subscription-revenue-dashboard/main/images/overview.png" alt="Revenue overview dashboard (sample data)" width="400">
+  <img src="https://raw.githubusercontent.com/sarahclarkbetsperts/subscription-revenue-dashboard/main/images/acquisition-funnel.png" alt="Acquisition funnel dashboard (sample data)" width="400">
+</p>
+<p align="center"><a href="https://sarahclarkbetsperts.github.io/subscription-revenue-dashboard/"><b>Open the live dashboard →</b></a> · all figures are synthetic</p>
 
 ## 💼 Experience
 
@@ -50,4 +62,4 @@ English (IELTS 6.5, July 2026) · Hindi
 
 ## 🤝 Let's connect
 
-Open to roles that combine solution architecture with data engineering and analytics. The quickest way to reach me is [email](mailto:sapna.lachheta01@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sapna-lachheta-bhayal-3694aa35).
+Open to roles that combine solution architecture with data engineering and analytics. The quickest way to reach me is [email](mailto:sapna.lachheta01@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sapna-lachheta-bhayal-3694aa35/).
