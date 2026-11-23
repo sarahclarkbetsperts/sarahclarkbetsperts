@@ -1,46 +1,53 @@
-# Hi, I'm Sapna Bhayal 👋
+<h1 align="center">Hi, I'm Sapna Bhayal 👋</h1>
+<p align="center"><b>Solution Architect · Backend Engineering · Data &amp; Analytics</b><br>
+16+ years building backend systems, APIs and analytics platforms · Indore, India</p>
 
-**Solution Architect | Backend Engineering | Data & Analytics**
-Based in Indore, India · 16+ years building backend systems, APIs and analytics platforms
+<p align="center">
+  <a href="https://sarahclarkbetsperts.github.io"><img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sapna-lachheta-bhayal-3694aa35"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sapna.lachheta01@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://sarahclarkbetsperts.github.io/Sapna_Bhayal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-111827?style=for-the-badge" alt="Resume"></a>
+</p>
 
-I design scalable backends and data pipelines for sports betting and fantasy sports platforms, and I've led engineering teams of 6 to 8+ developers for over a decade. I'm currently pursuing an MS in Applied Data Science (UpGrad × IIIT Bangalore) and applying Python and data science to forecasting and analytics.
+---
 
-## What I'm working on
+I design scalable backends and data pipelines for sports betting and fantasy sports platforms, and I've led teams of 6 to 8+ developers for over a decade. I'm pursuing an MS in Applied Data Science (UpGrad × IIIT Bangalore) and applying Python and data science to forecasting and analytics.
 
-- Architecting a golf tournament management platform: live leaderboards, course metrics and player statistics APIs
-- Python pipelines that ingest third-party sports data through async APIs and send automated reports to Slack
-- Revenue and LTV forecasting dashboards and admin tooling on Node.js, PostgreSQL and Google Cloud Functions
-- Growing from solution architecture toward data engineering and data science leadership
+## 🔭 What I'm working on
 
-## Tech stack
+- Architecting a golf tournament platform: live leaderboards, course metrics and player statistics APIs
+- Python pipelines that ingest third-party sports data through async APIs and send reports to Slack
+- Revenue and LTV forecasting dashboards on Node.js, PostgreSQL and Google Cloud Functions
+- Moving from solution architecture toward data engineering and data science leadership
 
-| Area | Tools |
-| --- | --- |
-| Backend | Node.js, Express.js, PHP (CodeIgniter, Laravel), Python |
-| Data & Analytics | Python, SQL, data pipelines, dashboards, forecasting |
-| Databases | PostgreSQL, MySQL, MongoDB, Firebase |
-| Cloud & DevOps | AWS (EC2, RDS), Google Cloud Functions, Docker, Jenkins, CI/CD |
-| Frontend | ReactJS, AngularJS, Vue.js |
-| APIs & Integration | REST, GraphQL, RabbitMQ, payment gateways |
+## 🛠️ Tech stack
 
-## Featured projects
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,codeigniter,python,sklearn,pandas,spark&perline=9" alt="Backend and data"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,aws,gcp,docker,jenkins,git&perline=9" alt="Databases and cloud"><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,js,html,css&perline=9" alt="Frontend">
+</p>
 
-Most of my professional work is in private repositories. Public examples and demos built on sample data:
+## 📊 Featured projects
 
-- **Amazon customer behavior analysis** (https://github.com/sarahclarkbetsperts/amazon-customer-behavior-pyspark): Analysis of 1.85 million Amazon purchase records (2018 onward) joined to survey demographics, built with PySpark. The project covers data cleaning, exploratory analysis, RFM + K-Means customer segmentation, and business recommendations on promotions, retention, geography and inventory.
-- **Porter Delivery Time Prediction** (https://github.com/sarahclarkbetsperts/porter-delivery-time-prediction/tree/main): Regression model that predicts order delivery time in minutes for Porter delivery orders, using order, restaurant-market and delivery-network features. The analysis also identifies which factors drive delivery time, so staffing and market-level SLAs can be informed by evidence.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Amazon Customer Behavior Analysis](https://github.com/sarahclarkbetsperts/amazon-customer-behavior-pyspark)** | EDA and RFM + K-Means segmentation on 1.85M purchase records, with promotion, retention and inventory recommendations | PySpark, scikit-learn |
+| **[Delivery Time Prediction](https://github.com/sarahclarkbetsperts/porter-delivery-time-prediction)** | Linear regression with RFE on 175K orders; predicts delivery time within about 6 minutes (R² 0.58) | Python, scikit-learn |
 
-## Experience at a glance
+*Most of my professional work is in private repositories; these are public projects from my MS coursework.*
+
+## 💼 Experience
 
 - **Lead Architect**, Xpert Sport Technologies (Betsperts Media & Technology Group): Oct 2021 to present
 - **Senior Backend Developer / Team Lead**, Vinfotech: 2017 to 2021
 - **Senior Software Developer**, Cibirix: 2016 to 2017
 - **Software Developer**, Walkover: 2010 to 2016
 
-## Let's connect
+## 🌐 Languages
 
-- [LinkedIn](https://www.linkedin.com/in/sapna-lachheta-bhayal-3694aa35)
-- Email: sapna.lachheta01@gmail.com
-- [Resume](https://sarahclarkbetsperts.github.io)
+English (IELTS 6.5, July 2026) · Hindi
 
-I'm open to enterprise roles that combine solution architecture with data analytics and engineering.
+## 🤝 Let's connect
+
+Open to roles that combine solution architecture with data engineering and analytics. The quickest way to reach me is [email](mailto:sapna.lachheta01@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sapna-lachheta-bhayal-3694aa35).
