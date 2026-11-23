@@ -27,9 +27,8 @@ I design scalable backends and data pipelines for sports betting and fantasy spo
 
 Most of my professional work is in private repositories. Public examples and demos built on sample data:
 
-- **[Project name]** ([link]): one line on what it does and the stack
-- **[Project name]** ([link]): one line on what it does and the stack
-- **[Project name]** ([link]): one line on what it does and the stack
+- **Amazon customer behavior analysis** (https://github.com/sarahclarkbetsperts/amazon-customer-behavior-pyspark): Analysis of 1.85 million Amazon purchase records (2018 onward) joined to survey demographics, built with PySpark. The project covers data cleaning, exploratory analysis, RFM + K-Means customer segmentation, and business recommendations on promotions, retention, geography and inventory.
+- **Porter Delivery Time Prediction** (https://github.com/sarahclarkbetsperts/porter-delivery-time-prediction/tree/main): Regression model that predicts order delivery time in minutes for Porter delivery orders, using order, restaurant-market and delivery-network features. The analysis also identifies which factors drive delivery time, so staffing and market-level SLAs can be informed by evidence.
 
 ## Experience at a glance
 
